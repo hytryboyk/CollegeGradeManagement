@@ -1,2 +1,2 @@
-# CollegeGradeManaged
+# CollegeGradeManagement
 pansir yyds!!!!
